@@ -6,3 +6,5 @@ I will first perform some basic exploration of the dataset and then run a multiv
 
 The data I used is also available at:
 https://www.kaggle.com/prasertk/military-power-by-country-2022
+
+Suggestions and improvements are more than welcome!
